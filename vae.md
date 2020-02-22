@@ -1,9 +1,9 @@
 # VAE
 
-### Research Focus
+## Research Focus
 
-- anomaly detection
 - representation learning
+- anomaly detection
 
 ## Models
 
